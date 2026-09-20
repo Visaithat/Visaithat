@@ -143,14 +143,6 @@ mindset:   Break the problem → build it → ship it → improve it
 
 </div>
 
-## 🌱 Currently
-
-```
-[██████████████████░░]  Full stack product work
-[█████████████░░░░░░░]  System design & clean architecture
-[███████░░░░░░░░░░░░░]  AI engineering  ← the next mountain
-```
-
 ## 🤝 Find me
 
 <div align="center">
